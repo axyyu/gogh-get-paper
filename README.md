@@ -1,1 +1,1 @@
-# gogh-get-money
+# gogh-get-paper
